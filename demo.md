@@ -5,11 +5,27 @@ this is second line
 and the third
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>**Mapping test**</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  # DAS_TM_CARD Request
+  
+| Название тега | Родитель   | Тип    | Длина | Кол-во вхождений | Описание                      | Маппинг                                                                                              |
+| ------------- | ---------- | ------ | ----- | ---------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
+| accountStatus | parameters | string | 10    | 1..1             | Номер счета БМ в формате 2620 | DAS\_TM\_CARD.RESPONSE.BODY.AGGREGATE.GET\_ACCOUNT\_INFO.ACCOUNT\_LIST.ACCOUNT\_ITEM.ACCOUNT\_NUMBER |
 </details>

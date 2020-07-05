@@ -1,0 +1,266 @@
+= TEST
+
+== Level 1 Section Title
+
+=== Level 2 Section Title
+
+==== Level 3 Section Title
+
+===== Level 4 Section Title
+
+====== Level 5 Section Title
+
+
+=== Mapping example
+[%collapsible]
+.Click to see
+====
+|===
+|tag|parent|type|num. of occ.|description|mapping path
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|accountStatus
+|parameters
+|string
+|1..1
+|Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+
+|===
+====
+
+==== Response example:
+....
+{
+    "glossary": {
+        "title": "example glossary",
+		"GlossDiv": {
+            "title": "S",
+			"GlossList": {
+                "GlossEntry": {
+                    "ID": "SGML",
+					"SortAs": "SGML",
+					"GlossTerm": "Standard Generalized Markup Language",
+					"Acronym": "SGML",
+					"Abbrev": "ISO 8879:1986",
+					"GlossDef": {
+                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
+						"GlossSeeAlso": ["GML", "XML"]
+                    },
+					"GlossSee": "markup"
+                }
+            }
+        }
+    }
+}
+....
+

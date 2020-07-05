@@ -1,4 +1,29 @@
-= TEST
+= CMD_ACCOUNT_INFO Service
+
+== Versions history
+|===
+|Author |description |version
+
+|Art
+|Column 2, row 1
+|Column 3, row 1
+
+|Art
+|Column 2, row 2
+|Column 3, row 2
+
+|Art
+|Column 2, row 3
+|Column 3, row 3
+|===
+
+== Functional specifications
+
+
+
+
+
+
 
 == Level 1 Section Title
 
@@ -149,7 +174,7 @@
 |string
 |1..1
 |Account status. Corresponds to BM statues. Possible values 1, 2, 3, etc
-|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.STATUS
+|DAS_BMRS.RESPONSE.BODY.GET_ACCOUNTSTATUS.TEST
 
 |accountStatus
 |parameters
